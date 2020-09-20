@@ -1,3 +1,16 @@
+Personal template featuring
+
+- Framer Motion
+- GSAP
+- Styled Components & Sass (Dart-Sass)
+- MDX
+- Formik and Yup
+- Mongoose for MongoDB connections
+
+```
+npx degit dbshanks/next-template my-new-app
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
